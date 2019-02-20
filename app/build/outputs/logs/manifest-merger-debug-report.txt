@@ -1,0 +1,177 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/zivon/Desktop/260/Android-Cryptocurrency-Converter-master/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/zivon/Desktop/260/Android-Cryptocurrency-Converter-master/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/zivon/Desktop/260/Android-Cryptocurrency-Converter-master/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/zivon/Desktop/260/Android-Cryptocurrency-Converter-master/app/src/main/AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:design:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/aebd1a720987f9d9c66e8f6feacbc6b6/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/039fe449589a9b3e40d64d46c2b8dea5/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/zivon/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/4afa271bf77dde3fbccdc9a62a2e3394/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/74eeacb40b53f9569139a93a3927f26f/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/f098e6d5b34fe15d4eb344ee24463c16/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/1f508cf6ac3d15cc313d4b86d64b105c/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/1e9439d1b171f2d86d3c2604cb08261e/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/49f3c2712c5d728fdb2c6f71770cbf0e/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/2533002fad14ebee518762d22904f922/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/19eebafb899417c7355b57b7984d67fb/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/6ad2d81242f4343996b7a8a1dba402da/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/b67190a8eeb0a02f3ca983471d2fba9a/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/bcc756d6269c63851b7087bc715303bf/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/5fcf424b4f11781d502dc179ae982365/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/zivon/Desktop/260/Android-Cryptocurrency-Converter-master/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/zivon/Desktop/260/Android-Cryptocurrency-Converter-master/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/zivon/Desktop/260/Android-Cryptocurrency-Converter-master/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /Users/zivon/Desktop/260/Android-Cryptocurrency-Converter-master/app/src/main/AndroidManifest.xml:3:5-18
+		INJECTED from /Users/zivon/Desktop/260/Android-Cryptocurrency-Converter-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zivon/Desktop/260/Android-Cryptocurrency-Converter-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/zivon/Desktop/260/Android-Cryptocurrency-Converter-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zivon/Desktop/260/Android-Cryptocurrency-Converter-master/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/zivon/Desktop/260/Android-Cryptocurrency-Converter-master/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/zivon/Desktop/260/Android-Cryptocurrency-Converter-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zivon/Desktop/260/Android-Cryptocurrency-Converter-master/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/zivon/Desktop/260/Android-Cryptocurrency-Converter-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/zivon/Desktop/260/Android-Cryptocurrency-Converter-master/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/zivon/Desktop/260/Android-Cryptocurrency-Converter-master/app/src/main/AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from /Users/zivon/Desktop/260/Android-Cryptocurrency-Converter-master/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/zivon/Desktop/260/Android-Cryptocurrency-Converter-master/app/src/main/AndroidManifest.xml:7:5-23:19
+MERGED from [com.android.support:design:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/aebd1a720987f9d9c66e8f6feacbc6b6/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/aebd1a720987f9d9c66e8f6feacbc6b6/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/039fe449589a9b3e40d64d46c2b8dea5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/039fe449589a9b3e40d64d46c2b8dea5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/zivon/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/4afa271bf77dde3fbccdc9a62a2e3394/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/zivon/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/4afa271bf77dde3fbccdc9a62a2e3394/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/74eeacb40b53f9569139a93a3927f26f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/74eeacb40b53f9569139a93a3927f26f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/f098e6d5b34fe15d4eb344ee24463c16/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/f098e6d5b34fe15d4eb344ee24463c16/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/1f508cf6ac3d15cc313d4b86d64b105c/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/1f508cf6ac3d15cc313d4b86d64b105c/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/1e9439d1b171f2d86d3c2604cb08261e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/1e9439d1b171f2d86d3c2604cb08261e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/49f3c2712c5d728fdb2c6f71770cbf0e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/49f3c2712c5d728fdb2c6f71770cbf0e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/2533002fad14ebee518762d22904f922/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/2533002fad14ebee518762d22904f922/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/19eebafb899417c7355b57b7984d67fb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/19eebafb899417c7355b57b7984d67fb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/6ad2d81242f4343996b7a8a1dba402da/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/6ad2d81242f4343996b7a8a1dba402da/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/b67190a8eeb0a02f3ca983471d2fba9a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/b67190a8eeb0a02f3ca983471d2fba9a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/bcc756d6269c63851b7087bc715303bf/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/bcc756d6269c63851b7087bc715303bf/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/5fcf424b4f11781d502dc179ae982365/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/5fcf424b4f11781d502dc179ae982365/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /Users/zivon/Desktop/260/Android-Cryptocurrency-Converter-master/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/zivon/Desktop/260/Android-Cryptocurrency-Converter-master/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /Users/zivon/Desktop/260/Android-Cryptocurrency-Converter-master/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /Users/zivon/Desktop/260/Android-Cryptocurrency-Converter-master/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/zivon/Desktop/260/Android-Cryptocurrency-Converter-master/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/zivon/Desktop/260/Android-Cryptocurrency-Converter-master/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.MainActivity
+ADDED from /Users/zivon/Desktop/260/Android-Cryptocurrency-Converter-master/app/src/main/AndroidManifest.xml:14:9-22:20
+	android:label
+		ADDED from /Users/zivon/Desktop/260/Android-Cryptocurrency-Converter-master/app/src/main/AndroidManifest.xml:16:13-45
+	android:name
+		ADDED from /Users/zivon/Desktop/260/Android-Cryptocurrency-Converter-master/app/src/main/AndroidManifest.xml:15:13-44
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/zivon/Desktop/260/Android-Cryptocurrency-Converter-master/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/zivon/Desktop/260/Android-Cryptocurrency-Converter-master/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /Users/zivon/Desktop/260/Android-Cryptocurrency-Converter-master/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/zivon/Desktop/260/Android-Cryptocurrency-Converter-master/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /Users/zivon/Desktop/260/Android-Cryptocurrency-Converter-master/app/src/main/AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from /Users/zivon/Desktop/260/Android-Cryptocurrency-Converter-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/zivon/Desktop/260/Android-Cryptocurrency-Converter-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/zivon/Desktop/260/Android-Cryptocurrency-Converter-master/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/aebd1a720987f9d9c66e8f6feacbc6b6/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/aebd1a720987f9d9c66e8f6feacbc6b6/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/039fe449589a9b3e40d64d46c2b8dea5/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/039fe449589a9b3e40d64d46c2b8dea5/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/zivon/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/4afa271bf77dde3fbccdc9a62a2e3394/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/zivon/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/4afa271bf77dde3fbccdc9a62a2e3394/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/74eeacb40b53f9569139a93a3927f26f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/74eeacb40b53f9569139a93a3927f26f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/f098e6d5b34fe15d4eb344ee24463c16/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/f098e6d5b34fe15d4eb344ee24463c16/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/1f508cf6ac3d15cc313d4b86d64b105c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/1f508cf6ac3d15cc313d4b86d64b105c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/1e9439d1b171f2d86d3c2604cb08261e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/1e9439d1b171f2d86d3c2604cb08261e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/49f3c2712c5d728fdb2c6f71770cbf0e/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/49f3c2712c5d728fdb2c6f71770cbf0e/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/2533002fad14ebee518762d22904f922/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/2533002fad14ebee518762d22904f922/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/19eebafb899417c7355b57b7984d67fb/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/19eebafb899417c7355b57b7984d67fb/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/6ad2d81242f4343996b7a8a1dba402da/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/6ad2d81242f4343996b7a8a1dba402da/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/b67190a8eeb0a02f3ca983471d2fba9a/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/b67190a8eeb0a02f3ca983471d2fba9a/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/bcc756d6269c63851b7087bc715303bf/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/bcc756d6269c63851b7087bc715303bf/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/5fcf424b4f11781d502dc179ae982365/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/5fcf424b4f11781d502dc179ae982365/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/zivon/Desktop/260/Android-Cryptocurrency-Converter-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/zivon/Desktop/260/Android-Cryptocurrency-Converter-master/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/aebd1a720987f9d9c66e8f6feacbc6b6/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/zivon/Desktop/260/Android-Cryptocurrency-Converter-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zivon/Desktop/260/Android-Cryptocurrency-Converter-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zivon/Desktop/260/Android-Cryptocurrency-Converter-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/zivon/Desktop/260/Android-Cryptocurrency-Converter-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zivon/Desktop/260/Android-Cryptocurrency-Converter-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zivon/Desktop/260/Android-Cryptocurrency-Converter-master/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/aebd1a720987f9d9c66e8f6feacbc6b6/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/039fe449589a9b3e40d64d46c2b8dea5/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/039fe449589a9b3e40d64d46c2b8dea5/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/74eeacb40b53f9569139a93a3927f26f/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/74eeacb40b53f9569139a93a3927f26f/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/f098e6d5b34fe15d4eb344ee24463c16/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/f098e6d5b34fe15d4eb344ee24463c16/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/1f508cf6ac3d15cc313d4b86d64b105c/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/1f508cf6ac3d15cc313d4b86d64b105c/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/1e9439d1b171f2d86d3c2604cb08261e/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/1e9439d1b171f2d86d3c2604cb08261e/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/49f3c2712c5d728fdb2c6f71770cbf0e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/49f3c2712c5d728fdb2c6f71770cbf0e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/2533002fad14ebee518762d22904f922/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/2533002fad14ebee518762d22904f922/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/19eebafb899417c7355b57b7984d67fb/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/19eebafb899417c7355b57b7984d67fb/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/6ad2d81242f4343996b7a8a1dba402da/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/6ad2d81242f4343996b7a8a1dba402da/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/b67190a8eeb0a02f3ca983471d2fba9a/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/b67190a8eeb0a02f3ca983471d2fba9a/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/bcc756d6269c63851b7087bc715303bf/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/bcc756d6269c63851b7087bc715303bf/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/aebd1a720987f9d9c66e8f6feacbc6b6/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/aebd1a720987f9d9c66e8f6feacbc6b6/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/5fcf424b4f11781d502dc179ae982365/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/5fcf424b4f11781d502dc179ae982365/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/zivon/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/5fcf424b4f11781d502dc179ae982365/AndroidManifest.xml:26:13-58
