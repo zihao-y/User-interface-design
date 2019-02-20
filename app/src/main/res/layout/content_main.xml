@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.MainActivity"
+    tools:showIn="@layout/activity_main">
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="200dp"
+        android:layout_height="45dp"
+        android:layout_marginStart="150dp"
+        android:layout_marginTop="88dp"
+        android:ems="10"
+        android:hint="From"
+        android:inputType="numberDecimal"
+        android:textSize="24sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <RadioGroup
+        android:id="@+id/RGroup1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="250dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="24dp"
+        android:checkedButton="@+id/radioButton1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <RadioButton
+            android:id="@+id/radioButton1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="4dp"
+            android:layout_marginStart="0dp"
+            android:onClick="onButtonClick"
+            android:text="USD"
+            app:layout_constraintBottom_toTopOf="@+id/radioButton2"
+            app:layout_constraintStart_toStartOf="parent"
+            android:buttonTint="@color/colorButton"/>
+
+        <RadioButton
+            android:id="@+id/radioButton2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="0dp"
+            android:onClick="onButtonClick"
+            android:text="BTC"
+            app:layout_constraintBaseline_toBaselineOf="@+id/editText"
+            app:layout_constraintStart_toStartOf="parent"
+            android:buttonTint="@color/colorButton"/>
+
+        <RadioButton
+            android:id="@+id/radioButton3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="4dp"
+            android:onClick="onButtonClick"
+            android:text="Doge"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/radioButton2"
+            android:buttonTint="@color/colorButton"/>
+
+    </RadioGroup>
+
+    <RadioGroup
+        android:id="@+id/RGroup2"
+        android:layout_width="wrap_content"
+        android:layout_height="107dp"
+        android:layout_marginEnd="250dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="64dp"
+        android:checkedButton="@+id/radioButton7"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/RGroup1">
+
+        <RadioButton
+            android:id="@+id/radioButton7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="4dp"
+            android:layout_marginStart="0dp"
+            android:onClick="onButtonClick"
+            android:text="USD"
+            app:layout_constraintBottom_toTopOf="@+id/radioButton8"
+            app:layout_constraintStart_toStartOf="parent"
+            android:buttonTint="@color/colorButton"/>
+
+        <RadioButton
+            android:id="@+id/radioButton8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="0dp"
+            android:onClick="onButtonClick"
+            android:text="BTC"
+            app:layout_constraintBaseline_toBaselineOf="@+id/textView"
+            app:layout_constraintStart_toStartOf="parent"
+            android:buttonTint="@color/colorButton"/>
+
+        <RadioButton
+            android:id="@+id/radioButton9"
+            android:layout_width="wrap_content"
+            android:layout_height="32dp"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="4dp"
+            android:onClick="onButtonClick"
+            android:text="Doge"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/radioButton8"
+            android:buttonTint="@color/colorButton"/>
+
+    </RadioGroup>
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="200dp"
+        android:layout_height="80dp"
+        android:layout_marginStart="153dp"
+        android:layout_marginTop="131dp"
+        android:hint="Converted To"
+        android:textColor="@android:color/black"
+        android:textSize="24sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editText" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="48dp"
+        android:onClick="onButtonClick"
+        android:text="Convert"
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/RGroup2"
+        android:background="#18a26a" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="320dp"
+        android:layout_height="45dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginTop="110dp"
+        android:onClick="onButtonClick2"
+        android:text="Refresh exchange rate"
+        android:textColor="@android:color/black"
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/RGroup2"
+        android:background="#e8d26a" />
+
+
+</android.support.constraint.ConstraintLayout>
